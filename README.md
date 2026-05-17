@@ -11,11 +11,8 @@
 ## 📦 安装
 
 ```bash
-# 克隆仓库
 git clone https://github.com/102839544/tool-024-pdf-to-image.git
 cd tool-024-pdf-to-image
-
-# 安装依赖
 pip install -r requirements.txt
 ```
 
